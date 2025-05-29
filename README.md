@@ -6,6 +6,7 @@ Welcome to Portable Scrcpy - a convenient solution to mirror and control your An
 
 1.  **Download the Portable Scrcpy package:**
     *   Download the `.zip` or `.rar` file of the Portable Scrcpy package shared by Diễn Nguyễn (CodonquaVN).
+    *   **Extraction Password: `codonqua`**
     *   Extract the downloaded file to any folder on your computer.
 
 2.  **Folder Structure:**
